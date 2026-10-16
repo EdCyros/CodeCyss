@@ -1,7 +1,11 @@
-### Olá , Me chamo Edson Cysneiros 👋
+### My name is Edson Cysneiros 👋
+I have a strong passion for technology. One of my greatest strengths is problem-solving. I enjoy understanding how things work because I believe that understanding a problem is the first step toward finding a solution.
 
-- 🌱 .Lua
-- 📫 Contante-me por email : jecysneiros@hotmail.com
+What motivates me the most is being able to help people who may not have the knowledge or skills to solve technical problems on their own. I find satisfaction in using what I know to make someone else's life easier.
+
+My career goal is to enter the field of cybersecurity. Although I haven't decided which area I want to specialize in yet, I'm excited to explore different opportunities, continue learning, and discover where I fit best.
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeCyss&theme=highcontrast)
 
